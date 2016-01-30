@@ -38,7 +38,7 @@
 ;;; Code:
 (require 'cappa)
 
-(cappa 'kitchingroup-57
+(cappa-register 'kitchingroup-57
        :journal "ACS Catalysis"
        :author '("John R. Kitchin")
        :title "Examples of Effective Data Sharing in Scientific Publishing"
