@@ -1,7 +1,7 @@
 ;;; kitchingroup-57.el --- preprint http://dx.doi.org/10.1021/acscatal.5b00538.  -*- lexical-binding: t; -*-
 
 ;; Copyright (C) 2016  John Kitchin
-
+;; Version: 1
 ;; Author: John Kitchin <jkitchin@andrew.cmu.edu>
 ;; Keywords:
 ;; Package-Requires: ((cappa "0"))
