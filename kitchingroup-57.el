@@ -5,7 +5,8 @@
 ;; Author: John Kitchin <jkitchin@andrew.cmu.edu>
 ;; Keywords:
 ;; Package-Requires: ((cappa "0"))
-
+;; Journal: ACS Catalysis
+;; DOI: 10.1021/acscatal.5b00538
 ;; This program is free software; you can redistribute it and/or modify
 ;; it under the terms of the GNU General Public License as published by
 ;; the Free Software Foundation, either version 3 of the License, or
@@ -22,7 +23,7 @@
 ;;; Commentary:
 
 ;; Preprint and supporting information for
-;; @article{kitchin-2015-examp,
+;; Bibtex: @article{kitchin-2015-examp,
 ;;   author =	 {Kitchin, John R.},
 ;;   title =	 {Examples of Effective Data Sharing in Scientific Publishing},
 ;;   journal =	 {ACS Catalysis},
@@ -30,8 +31,8 @@
 ;;   number =	 {6},
 ;;   pages =	 {3894-3899},
 ;;   year =	 2015,
-;;   doi =		 {10.1021/acscatal.5b00538},
-;;   url =		 { http://dx.doi.org/10.1021/acscatal.5b00538 },
+;;   doi =	 {10.1021/acscatal.5b00538},
+;;   url =	 { http://dx.doi.org/10.1021/acscatal.5b00538 },
 ;;   eprint =	 { http://dx.doi.org/10.1021/acscatal.5b00538 },
 ;; }
 
