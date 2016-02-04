@@ -1,4 +1,4 @@
-;;; kitchingroup-57.el --- preprint http://dx.doi.org/10.1021/acscatal.5b00538.  -*- lexical-binding: t; -*-
+;;; kitchingroup-57.el --- Examples of Effective Data Sharing in Scientific Publishing
 
 ;; Copyright (C) 2016  John Kitchin
 ;; Version: 1
