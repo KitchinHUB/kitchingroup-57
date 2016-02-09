@@ -34,7 +34,7 @@
 ;;   doi =	 {10.1021/acscatal.5b00538},
 ;;   url =	 { http://dx.doi.org/10.1021/acscatal.5b00538 },
 ;;   eprint =	 { http://dx.doi.org/10.1021/acscatal.5b00538 },
-;; }
+;;   }
 
 ;;; Code:
 (require 'cappa)
